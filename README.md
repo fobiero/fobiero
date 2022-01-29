@@ -8,7 +8,7 @@ I'm felix Obiero a Full Stack Web Developer & UX | UI Designer. I am proficient 
 
 ## Setup & Installations
 
-Use of this template is free and therefeore has no copyright issues as refered to the license provider. All persons are free and able to download, customize and use to suit ones need thus.
+Use of this template is free and therefeore has no copyright issues as refered to the license provider. All persons are free and able to download, customize and use to suit ones need.
 
 <br>
 
