@@ -40,6 +40,4 @@ Use of this template is free and therefeore has no copyright issues as refered t
 <br/>
 <br/>
 
-## License
-
- [MIT](LICENSE).
+## License  [MIT](LICENSE).
