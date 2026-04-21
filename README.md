@@ -5,7 +5,3 @@ Open to work.
 :mailbox: Reach me out!
 [![Twitter Badge](https://img.shields.io/badge/-@aghuba-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@aghuba)](https://twitter.com/@aghuba) [![Linkedin Badge](https://img.shields.io/badge/-felixObiero-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://linkedin.com/in/obiero138228117) [![Mail Badge](https://img.shields.io/badge/-felixObiero-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:felbiero@gmail.com)
 
-<br/>
-<br/>
-
-## License  [MIT](LICENSE).
